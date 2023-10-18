@@ -1,8 +1,7 @@
-
-
-export default function Rodape(){
-
-    return(
-        <h1>rodape</h1>
-    )
+export default function Rodape() {
+  return (
+    <div>
+      <p>vitin da massa</p>
+    </div>
+  );
 }
